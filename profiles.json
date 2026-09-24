@@ -1,0 +1,28 @@
+{
+    "9840012345": {
+        "farmer_name": "Ramasamy K.",
+        "name": "Farmer",
+        "phone_email": "9840012345",
+        "phone": "",
+        "district": "Thoothukudi",
+        "land_acres": 3.0,
+        "village": "",
+        "soil_type": "Red Loamy",
+        "irrigation": "Canal / River Water",
+        "current_crop": "Paddy",
+        "experience_years": 0
+    },
+    "9876500000": {
+        "farmer_name": "Karthik",
+        "name": "Farmer",
+        "phone_email": "9876500000",
+        "phone": "",
+        "district": "Thoothukudi",
+        "land_acres": 3.0,
+        "village": "",
+        "soil_type": "Black Soil",
+        "irrigation": "Drip",
+        "current_crop": null,
+        "experience_years": 0
+    }
+}
